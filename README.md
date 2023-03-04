@@ -7,7 +7,4 @@ Find me on [![Twitter][1.2]][1] for Genshin Impact craps
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/serendipitk
-# Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Thereallo1026&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![Hatsune Miku](https://user-images.githubusercontent.com/64765950/202156921-13eeb7b2-2599-4a3a-baec-b5de190fe47a.png)
