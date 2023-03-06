@@ -7,7 +7,7 @@ Find me on [![Twitter][1.2]][1] for Genshin Impact craps
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/serendipitk
-[![Bkebi-GC-Releases](https://github-readme-stats.vercel.app/api/pin/?username=Xcating&repo=Json_Integration)](https://github.com/serendipitk/Bkebi-GC-Releases)
+[![Bkebi-GC-Releases](https://github-readme-stats.vercel.app/api/pin/?username=serendipitk&repo=Bkebi-GC-Releases)](https://github.com/serendipitk/Bkebi-GC-Releases)
 [![JsCs](https://github-readme-stats.vercel.app/api/pin/?username=Xcating&repo=Jscs)](https://github.com/Xcating/Jscs)
 [![webside](https://github-readme-stats.vercel.app/api/pin/?username=Xcating&repo=website)](https://github.com/Xcating/website)
 # 💻 Tech Stack:
