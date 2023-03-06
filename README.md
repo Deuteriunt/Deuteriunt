@@ -8,8 +8,7 @@ Find me on [![Twitter][1.2]][1] for Genshin Impact craps
 
 [1]: https://twitter.com/serendipitk
 [![Bkebi-GC-Releases](https://github-readme-stats.vercel.app/api/pin/?username=serendipitk&repo=Bkebi-GC-Releases)](https://github.com/serendipitk/Bkebi-GC-Releases)
-[![JsCs](https://github-readme-stats.vercel.app/api/pin/?username=Xcating&repo=Jscs)](https://github.com/Xcating/Jscs)
-[![webside](https://github-readme-stats.vercel.app/api/pin/?username=Xcating&repo=website)](https://github.com/Xcating/website)
+[![Bkebi-bpfc-Teleport](https://github-readme-stats.vercel.app/api/pin/?username=serendipitk&repo=Bkebi-bpfc-Teleport)]([https://github.com/Xcating/Jscs](https://github.com/serendipitk/Bkebi-bpfc-Teleport))
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Jvav](https://img.shields.io/badge/Jvav-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 # 📊 GitHub Stats:
