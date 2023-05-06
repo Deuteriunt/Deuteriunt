@@ -11,6 +11,7 @@ Find me on [![Twitter][1.2]][1] for Genshin Impact craps
 [![Bkebi-bpfc-Teleport](https://github-readme-stats.vercel.app/api/pin/?username=serendipitk&repo=Bkebi-bpfc-Teleport)]([https://github.com/Xcating/Jscs](https://github.com/serendipitk/Bkebi-bpfc-Teleport))
 [![fiction](https://github-readme-stats.vercel.app/api/pin/?username=serendipitk&repo=fiction)](https://github.com/serendipitk/fiction)
 [![Akebi-Cheat-3.3](https://github-readme-stats.vercel.app/api/pin/?username=serendipitk&repo=Akebi-Cheat-3.3)](https://github.com/serendipitk/Akebi-Cheat-3.3)
+[![Akebi-Cheat-3.6](https://github-readme-stats.vercel.app/api/pin/?username=serendipitk&repo=Akebi-Cheat-3.6)](https://github.com/serendipitk/Akebi-Cheat-3.6)
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Jvav](https://img.shields.io/badge/Jvav-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 # 📊 GitHub Stats:
