@@ -17,7 +17,7 @@ Find me on [![Twitter][1.2]][1] for Genshin Impact craps
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tedddeptrai&theme=dark&hide_border=false)<br/>
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Thereallo1026&theme=dark&show_icons=true)](https://github.com/serendipitk/serendipitk)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=serendipitk&theme=dark&show_icons=true)](https://github.com/serendipitk/serendipitk)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serendipitk&layout=compact&theme=tokyonight)
 
 ### ✍️ Random Dev Quote
