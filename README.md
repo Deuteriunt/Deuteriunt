@@ -15,9 +15,8 @@ Find me on [![Twitter][1.2]][1] for Genshin Impact craps
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Jvav](https://img.shields.io/badge/Jvav-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 # 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=serendipitk&theme=dark&show_icons=true)](https://github.com/serendipitk/serendipitk)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=serendipitk&theme=dark&hide_border=false)<br/>
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=serendipitk&theme=dark&show_icons=true)](https://github.com/serendipitk/serendipitk)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serendipitk&layout=compact&theme=tokyonight)
 
 ### ✍️ Random Dev Quote
