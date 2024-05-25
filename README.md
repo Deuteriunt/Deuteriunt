@@ -7,11 +7,11 @@ Find me on [![Twitter][1.2]][1] for Genshin Impact craps
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/serendipitk
-[![Bkebi-GC-Releases](https://github-readme-stats.vercel.app/api/pin/?username=serendipitk&repo=Bkebi-GC-Releases)](https://github.com/Deuteriunt/Bkebi-GC-Releases)
-[![GrasscutterCommandGenerator-Lite](https://github-readme-stats.vercel.app/api/pin/?username=serendipitk&repo=GrasscutterCommandGenerator-Lite)](https://github.com/Deuteriunt/GrasscutterCommandGenerator-Lite)
-[![fiction](https://github-readme-stats.vercel.app/api/pin/?username=serendipitk&repo=fiction)](https://github.com/Deuteriunt/fiction)
-[![Akebi-Cheat-3.3](https://github-readme-stats.vercel.app/api/pin/?username=serendipitk&repo=Akebi-Cheat-3.3)](https://github.com/Deuteriunt/Akebi-Cheat-3.3)
-[![Akebi-Cheat-3.6](https://github-readme-stats.vercel.app/api/pin/?username=serendipitk&repo=Akebi-Cheat-3.6)](https://github.com/Deuteriunt/Akebi-Cheat-3.6)
+[![Bkebi-GC-Releases](https://github-readme-stats.vercel.app/api/pin/?username=Deuteriunt&repo=Bkebi-GC-Releases)](https://github.com/Deuteriunt/Bkebi-GC-Releases)
+[![GrasscutterCommandGenerator-Lite](https://github-readme-stats.vercel.app/api/pin/?username=Deuteriunt&repo=GrasscutterCommandGenerator-Lite)](https://github.com/Deuteriunt/GrasscutterCommandGenerator-Lite)
+[![fiction](https://github-readme-stats.vercel.app/api/pin/?username=Deuteriunt&repo=fiction)](https://github.com/Deuteriunt/fiction)
+[![Akebi-Cheat-3.3](https://github-readme-stats.vercel.app/api/pin/?username=Deuteriunt&repo=Akebi-Cheat-3.3)](https://github.com/Deuteriunt/Akebi-Cheat-3.3)
+[![Akebi-Cheat-3.6](https://github-readme-stats.vercel.app/api/pin/?username=Deuteriunt&repo=Akebi-Cheat-3.6)](https://github.com/Deuteriunt/Akebi-Cheat-3.6)
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Jvav](https://img.shields.io/badge/Jvav-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 # 📊 GitHub Stats:
