@@ -14,20 +14,14 @@
 
 # 💻 My Projects
 [![LingyangServer-Proxy](https://github-readme-stats.vercel.app/api/pin/?username=Deuteriunt&repo=LingyangServer-Proxy)](https://github.com/Deuteriunt/LingyangServer-Proxy)
-
 [![shika-translations](https://github-readme-stats.vercel.app/api/pin/?username=Deuteriunt&repo=shika-translations)](https://github.com/Deuteriunt/shika-translations)
-
 [![GI-Library](https://github-readme-stats.vercel.app/api/pin/?username=Deuteriunt&repo=GI-Library)](https://github.com/Deuteriunt/GI-Library)
-
 [![Akebi-Cheat-3.3](https://github-readme-stats.vercel.app/api/pin/?username=Deuteriunt&repo=Akebi-Cheat-3.3)](https://github.com/Deuteriunt/Akebi-Cheat-3.3)
-
 [![Akebi-Cheat-3.6](https://github-readme-stats.vercel.app/api/pin/?username=Deuteriunt&repo=Akebi-Cheat-3.6)](https://github.com/Deuteriunt/Akebi-Cheat-3.6)
 
 # 📊 GitHub Stats:
-<p> <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Deuteriunt&count_private=true&show_icons=true&show_icons=true&theme=dracula" title="My GitHub Stats"></p>
-
-<p> <img alt="Stats2" src="https://github-readme-streak-stats-one-alpha.vercel.app/?user=Deuteriunt&theme=dracula" /> </p>
-
+<p><img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Deuteriunt&count_private=true&show_icons=true&show_icons=true&theme=dracula" title="My GitHub Stats"></p>
+<p><img alt="Stats2" src="https://github-readme-streak-stats-one-alpha.vercel.app/?user=Deuteriunt&theme=dracula" /> </p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deuteriunt&layout=compact&theme=tokyonight" alt="Top Languages" title="Top Languages"></p>
 
 ### ✍️ Random Dev Quote
